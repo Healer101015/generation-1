@@ -1,0 +1,19 @@
+{
+  "name": "modulo-9-pilhas-e-filas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "queue": "ts-node atividade-queue.ts",
+    "stack": "ts-node atividade-stack.ts"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2",
+    "@types/node": "^24.3.0",
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
